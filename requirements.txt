@@ -1,0 +1,6 @@
+discord.py
+nest_asyncio
+Flask
+flask-sqlalchemy
+sqlalchemy
+werkzeug
